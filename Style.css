@@ -88,6 +88,16 @@ p {
     font-size: 20px;
     
 }
-.links:hover {
+.links:hover
    background-color: deeppink;   
+}
+a {
+    text-decoration: none;
+    
+}
+.article:hover{
+    color: forestgreen;
+}
+html {
+    scroll-behavior: smooth
 }
